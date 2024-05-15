@@ -1,0 +1,45 @@
+{
+  "pageTextData": [
+    {
+      "title": "Coca Cola Great Britain",
+      "subTitle": "Founded in 1886 Dr John S Pemberton",
+      "description": "The Coca Cola Company is the world's leading manufacturer, marketer and distributor of nonalcoholic beverage concentrates and syrups."
+    },
+    {
+      "title": "Coca Cola",
+      "subTitle": "New York Harbour, 1886",
+      "description": "It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents a glass."
+    },
+    {
+      "title": "Sprite",
+      "subTitle": "West Germany, 1959",
+      "description": "First introduced in 1961, crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime soft drink. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar."
+    },
+    {
+      "title": "Dr Pepper",
+      "subTitle": "Texas, 1885",
+      "description": "Dr Pepper's unique, sparkling blend of 23 fruit flavors has been around the world. It was created by Texas pharmacist Charles Alderton, and Mr. Morrison instantly agreed to stock the drink. The distinctive, bold taste is one you just can't quite put your tongue on."
+    },
+    {
+      "title": "History of Coca Cola",
+      "subTitle": "Atlanta Beginnings",
+      "description": "It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Like many people who change history, John Pemberton, an Atlanta pharmacist was inspired by simple curiosity. He stirred up a fragrant, caramel-colored liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. The mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents a glass.",
+      "x3dModelTitle": "Coca Cola X3D Model",
+      "x3dCreationMethod": "This X3D model of the coke can has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online."
+    },
+    {
+      "title": "Sprite - Fanta Klare Zitrone",
+      "subTitle": "First introduced in 1961",
+      "description": "Crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime soft drink. Sprite Zero, part of Coca Cola's no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar.",
+      "x3dModelTitle": "Sprite X3D Model",
+      "x3dCreationMethod": "This X3D model of the sprite bottle has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online."
+    },
+    {
+      "title": "Dr Pepper - Liquid Sunshine",
+      "subTitle": "23 fruit flavors",
+      "description": "Dr Pepper's unique, sparkling blend of 23 fruit flavors has been around the world. It was created by Texas pharmacist Charles Alderton, and Mr. Morrison instantly agreed to stock the drink. The distinctive, bold taste is one you just can't quite put your tongue on.",
+      "x3dModelTitle": "Dr Pepper X3D Model",
+      "x3dCreationMethod": "This X3D model of the pepper cup has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online."
+    }
+  ]
+}
